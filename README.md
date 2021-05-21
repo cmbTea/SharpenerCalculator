@@ -4,7 +4,7 @@
 There are many sharpening machines available, but all of them are somehow difficult to adjust to generate a perfect blade using a defined angle.  
 The following picture shows such a machine and make it easy understanding the difficulty in adjusting it:  
 
-<img src="doc/machine.png" width="75%">
+![Tormek T-8](https://github.com/cmbTea/SharpenerCalculator/blob/master/machine.png?raw=true)
 
 The model you see here is a <a href="https://www.tormek.com/uk/en/machine-models/tormek-t-4-original/" target="blank">**Tormek T-4**</a>. On the website you will see also a lot of videos on how to use them.  
 

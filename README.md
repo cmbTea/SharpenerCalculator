@@ -14,7 +14,7 @@ In general you attach your knife to a jig and place it on a so called *Universal
 
 It provides good results, but misses a kind of repeatability. Thanks to the SharpenerCalculator you can overcome this problem and archive a perfect blade in a repeatable quality. This is a schematic of the machine and it shows you some important machine specific measurements you need to calculate the grinding angle.  
 
-![Machine sketch up](https://github.com/cmbTea/SharpenerCalculator/blob/master/sketch.PNG?raw=true)
+![Machine sketch up](https://github.com/cmbTea/SharpenerCalculator/blob/master/src/sketch.PNG?raw=true)
 
 The USB can be used on top of the machine or beside the machine. Both positions are supported by the SharpenerCalculator. As already said above the horizontal and vertical distance of the top of the USB to the axis of the wheel are important and machine specific. SharpenerCalculator provides these settings for the Tormek T-4 and T-8 model in both positions. Beside that you can define custom settings. This allows you to easily add configurations for other machines or for specific jigs or jig extenders. Configurations can be stored and loaded so that you can share configurations with others. We will be happy if you share your configurations with us.  
 

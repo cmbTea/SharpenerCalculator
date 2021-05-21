@@ -2,11 +2,11 @@
 
 ## Introduction
 There are many sharpening machines available, but all of them are somehow difficult to adjust to generate a perfect blade using a defined angle.  
-The following picture shows such a machine and make it easy understanding the difficulty in adjusting it:  
+The following picture shows such a machine and makes it easy understanding the difficulty in adjusting it:  
 
 ![Tormek T-8](https://github.com/cmbTea/SharpenerCalculator/blob/master/machine.png?raw=true)
 
-The model you see here is a <a href="https://www.tormek.com/uk/en/machine-models/tormek-t-4-original/" target="blank">**Tormek T-4**</a>. On the website you will see also a lot of videos on how to use them.  
+The model you see here is a <a href="https://www.tormek.com/uk/en/machine-models/tormek-t-4-original/" target="blank">**Tormek T-8**</a>. On the website you will see also a lot of videos on how to use it.  
 
 In general you attach your knife to a jig and place it on a so called *Universal Support Bar (USB)*. The height of the top of the USB relative to the axis of the wheel and its horizontal distance to the axis define the grinding angle. To adjust the height of the USB to get a desired sharpening angle you typically use the *AngleMaster* shown in the picture below:  
 
